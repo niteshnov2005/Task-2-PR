@@ -119,7 +119,7 @@ const participants = [
     { name: "SOMADIGARI SAMHITH", roll: "25R21A0560", year: "First", branch: "CSE", github: "", linkedin: "" },
     { name: "Koganti Harshavardhan", roll: "23r21a0598", year: "Third", branch: "Cse", github: "", linkedin: "" },
     { name: "Patadoddy Rushika", roll: "24R21A66H7", year: "Second", branch: "Csm", github: "", linkedin: "" },
-    { name: "Nitesh sirvi", roll: "23R21A05B4", year: "Third", branch: "CSE", github: "", linkedin: "" },
+    { name: "Nitesh sirvi", roll: "23R21A05B4", year: "Third", branch: "CSE", github: "nitestnov2005", linkedin: "www.linkedin.com/in/royal-gaming-8987022b6" },
     { name: "Md. Ridhai kounine", roll: "24R21A66G9", year: "Second", branch: "CSM -C", github: "", linkedin: "" },
     { name: "GUGULOTH ADITHYA JADHAV", roll: "24R21A6619", year: "Second", branch: "CSM-A", github: "", linkedin: "" },
     { name: "Aleti Vaishnavi Reddy", roll: "24R21A05GU", year: "Second", branch: "CSE-F", github: "", linkedin: "" }
